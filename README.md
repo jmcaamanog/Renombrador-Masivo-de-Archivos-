@@ -1,5 +1,14 @@
 # Renombrador Masivo de Archivos 🗂️🔄
 
+![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=flat-square)
+![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=flat-square)
+![Maker](https://img.shields.io/badge/Maker-Software-red?logo=makerbot&style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware---grey?style=flat-square)
+![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Stars](https://img.shields.io/github/stars/jmcaamanog/Renombrador-Masivo-de-Archivos-?style=flat-square&color=yellow&logo=github)
+![License](https://img.shields.io/github/license/jmcaamanog/Renombrador-Masivo-de-Archivos-?style=flat-square&color=green)
+
 (Arquitecto Técnico_JMC) Herramienta de escritorio ligera y rápida para renombrar múltiples archivos en lote. Desarrollada en Python con una interfaz gráfica intuitiva, está pensada para organizar entregas documentales, planos y modelos BIM asegurando una nomenclatura estandarizada sin riesgo de errores.
 
 ## 🚀 Características Principales
