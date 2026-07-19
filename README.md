@@ -4,6 +4,9 @@
 | :--- | :--- |
 | ![Profesión](https://img.shields.io/badge/Profesi%C3%B3n-Arquitectos%20T%C3%A9cnicos-2e7d32?logo=micro%3Abit&logoColor=white&style=plastic) <br> ![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=plastic) <br> ![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=plastic) <br> ![Maker](https://img.shields.io/badge/Maker-Software-red?logo=makerbot&style=plastic) <br> ![Hardware](https://img.shields.io/badge/Hardware---grey?style=plastic) <br> ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&style=plastic) <br> ![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white&style=plastic) | ![Stars](https://img.shields.io/github/stars/jmcaamanog/Renombrador-Masivo-de-Archivos-?style=plastic&color=yellow&logo=github) <br> ![License](https://img.shields.io/github/license/jmcaamanog/Renombrador-Masivo-de-Archivos-?style=plastic&color=green) |
 
+| 🏗️ Perfil & ConTech | 📈 Repositorio & Enlaces |
+| :--- | :--- |
+
 (Arquitecto Técnico_JMC) Herramienta de escritorio ligera y rápida para renombrar múltiples archivos en lote. Desarrollada en Python con una interfaz gráfica intuitiva, está pensada para organizar entregas documentales, planos y modelos BIM asegurando una nomenclatura estandarizada sin riesgo de errores.
 
 ## 🚀 Características Principales
